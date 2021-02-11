@@ -1,0 +1,11 @@
+td{
+    padding: 10px;
+    border: solid black 1px;
+}
+table{
+    margin: 30px;
+}
+.test{
+    margin: 0 auto;
+    width: fit-content;
+}
